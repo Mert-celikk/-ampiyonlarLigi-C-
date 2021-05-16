@@ -1,1 +1,1 @@
-# -ampiyonlarLigi-C-
+# SampiyonlarLigiKodlama-
