@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\bin\Debug\netcoreapp3.1\Kura Çekimi.exe
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\bin\Debug\netcoreapp3.1\Kura Çekimi.deps.json
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\bin\Debug\netcoreapp3.1\Kura Çekimi.runtimeconfig.json
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\bin\Debug\netcoreapp3.1\Kura Çekimi.runtimeconfig.dev.json
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\bin\Debug\netcoreapp3.1\Kura Çekimi.dll
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\bin\Debug\netcoreapp3.1\Kura Çekimi.pdb
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\obj\Debug\netcoreapp3.1\Kura Çekimi.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\obj\Debug\netcoreapp3.1\Kura_Çekimi.Form1.resources
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\obj\Debug\netcoreapp3.1\Kura Çekimi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\obj\Debug\netcoreapp3.1\Kura Çekimi.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\obj\Debug\netcoreapp3.1\Kura Çekimi.AssemblyInfo.cs
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\obj\Debug\netcoreapp3.1\Kura Çekimi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\obj\Debug\netcoreapp3.1\Kura Çekimi.dll
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\obj\Debug\netcoreapp3.1\Kura Çekimi.pdb
+C:\Users\user\source\repos\Kura Çekimi\Kura Çekimi\obj\Debug\netcoreapp3.1\Kura Çekimi.genruntimeconfig.cache
